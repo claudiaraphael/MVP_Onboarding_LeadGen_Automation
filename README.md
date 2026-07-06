@@ -5,7 +5,7 @@
 This project is idealized in Figma with an architecture structure defining it scope and main functionalities. It's responsible for welcoming new course users and generating new leads for the brand.
 
 ### Deliverables:
-- [Architecture on Figma / Wireframe](https://www.figma.com/make/yq2HJH9T1hsKyshXHGWwPi/Community-Onboarding-Automation-Flow?fullscreen=1&t=0hanMLFqqdZP2xLI-1&code-node-id=0-6)
+- [Architecture on Figma / Wireframe](https://www.figma.com/make/yq2HJH9T1hsKyshXHGWwPi/Community-Onboarding-Automation-Flow?t=uDosEjDlRsoHLTPH-1)
 
 - [Minimal Viable Product on Miro](https://miro.com/welcomeonboard/NmpOM09yczR5dUNJS3IrL2J0NWZqNjI5dVQvN20vc3RRWU5IcE12MCtUSzc3YWpNemkwSDJML1hBZ0ZnTE5BMWNWaUVyK1FVYy9qcFQ4UFBCTXFxVnNXUkpOZXBybVh2aVFRWmNONkppSVZsSTNuN0t4SUwzN1ZycnNOOU1rdnd0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=503144264713)
 
